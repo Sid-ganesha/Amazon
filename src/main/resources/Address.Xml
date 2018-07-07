@@ -1,0 +1,24 @@
+ <Addresses>
+<IL>
+<FullName>Siddhartha Ghosh</FullName>
+<EnterAddressLine1>1465 Orion Dr</EnterAddressLine1>
+<EnterAddressCity>Schaumberg</EnterAddressCity>
+<EnterAddressState>IL</EnterAddressState>
+<ZipCode>231456</ZipCode>
+<Country>United States</Country>
+//<KYCID>2315</KYCID>
+<enterAddressPhoneNumber>9910666447</enterAddressPhoneNumber>
+<SecurityAccessCode>6789</SecurityAccessCode>
+</IL>
+<MN>
+<FullName>AmanBhardwaj</FullName>
+<EnterAddressLine1>213 douglas dr</EnterAddressLine1>
+<EnterAddressCity>GoldenValley</EnterAddressCity>
+<EnterAddressState>MN</EnterAddressState>
+<ZipCode>76431</ZipCode>
+<Country>United States</Country>
+<KYCID>2B3B5</KYCID>
+<enterAddressPhoneNumber>9910666446</enterAddressPhoneNumber>
+<SecurityAccessCode>2345</SecurityAccessCode>
+</MN>
+</Addresses>

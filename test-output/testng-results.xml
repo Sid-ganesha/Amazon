@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="238235" started-at="2018-07-04T15:20:56Z" finished-at="2018-07-04T15:24:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="238235" started-at="2018-07-04T15:20:56Z" finished-at="2018-07-04T15:24:54Z">
+      <class name="com.tests.VisaCheckOut">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.VisaCheckOut@27823847]" name="setup" is-config="true" duration-ms="39546" started-at="2018-07-04T20:50:56Z" finished-at="2018-07-04T20:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VisaCheckoutGuestUser()[pri:0, instance:com.tests.VisaCheckOut@27823847]" name="VisaCheckoutGuestUser" duration-ms="48882" started-at="2018-07-04T20:51:36Z" finished-at="2018-07-04T20:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VisaCheckoutGuestUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.VisaCheckOut@27823847]" name="tearDown" is-config="true" duration-ms="3975" started-at="2018-07-04T20:52:24Z" finished-at="2018-07-04T20:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.VisaCheckOut@27823847]" name="setup" is-config="true" duration-ms="24165" started-at="2018-07-04T20:52:28Z" finished-at="2018-07-04T20:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VisaCheckoutGuestUser1()[pri:0, instance:com.tests.VisaCheckOut@27823847]" name="VisaCheckoutGuestUser1" duration-ms="33767" started-at="2018-07-04T20:52:53Z" finished-at="2018-07-04T20:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VisaCheckoutGuestUser1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.VisaCheckOut@27823847]" name="tearDown" is-config="true" duration-ms="1817" started-at="2018-07-04T20:53:26Z" finished-at="2018-07-04T20:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.VisaCheckOut@27823847]" name="setup" is-config="true" duration-ms="17824" started-at="2018-07-04T20:53:28Z" finished-at="2018-07-04T20:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VisaCheckoutGuestUser2()[pri:0, instance:com.tests.VisaCheckOut@27823847]" name="VisaCheckoutGuestUser2" duration-ms="68210" started-at="2018-07-04T20:53:46Z" finished-at="2018-07-04T20:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VisaCheckoutGuestUser2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.VisaCheckOut@27823847]" name="tearDown" is-config="true" duration-ms="8" started-at="2018-07-04T20:54:54Z" finished-at="2018-07-04T20:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.VisaCheckOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
